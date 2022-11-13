@@ -15,7 +15,7 @@
 				</a>
 				<ul>
 					<li><a href="Login.jsp?">로그인</a></li>
-					<li><a href="#">회원가입</a></li>
+					<li><a href="Signup.jsp?">회원가입</a></li>
 				</ul>
 			</div>
 		</header>
