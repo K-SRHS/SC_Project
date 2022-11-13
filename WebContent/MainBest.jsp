@@ -10,7 +10,7 @@
 	<body>
 		<header>
 			<div class="navbar">
-				<a class="logo" href="#">
+				<a class="logo" href="MainBest.jsp?">
 						<img src="images/ProjectLogo.png" height="150px">
 				</a>
 				<ul>
