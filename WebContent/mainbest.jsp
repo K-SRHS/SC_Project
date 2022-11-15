@@ -10,12 +10,12 @@
 	<body>
 		<header>
 			<div class="navbar">
-				<a class="logo" href="MainBest.jsp?">
+				<a class="logo" href="mainbest.jsp?">
 						<img src="images/ProjectLogo.png" height="150px">
 				</a>
 				<ul>
-					<li><a href="Login.jsp?">로그인</a></li>
-					<li><a href="Signup.jsp?">회원가입</a></li>
+					<li><a href="login.jsp?">로그인</a></li>
+					<li><a href="signup.jsp?">회원가입</a></li>
 				</ul>
 			</div>
 		</header>
