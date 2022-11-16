@@ -8,7 +8,7 @@
 		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
-		<header>
+		<header>//asd
 			<div class="navbar">
 				<a class="logo" href="mainbest.jsp?">
 						<img src="images/ProjectLogo.png" height="150px">
