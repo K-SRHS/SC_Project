@@ -11,7 +11,7 @@
 		Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/sc_pj","root","1234");
 		Statement stmt = conn.createStatement();
 		stmt.executeQuery("Select into member (id,pw,name,email) values ('"+id+"','"+pw+"','"+name+"','"+email+"')");
-		out.println("<p><h1>로그인이 완료되었습니다.</h1>");
+		out.println("<p><h1>로그인이 완료되었습니다.</h1>");//ok
 		stmt.close();
 		conn.close();
 	}catch(SQLException e){
