@@ -14,7 +14,7 @@
 						<img src="images/ProjectLogo.png" height="150px">
 				</a>
 				<ul>
-					<li><a href="login.jsp?">로그인</a></li> <!-- 이건 로그인ㅋ -->
+					<li><a href="login.jsp?">로그인</a></li> <!-- 이건 로그인gg -->
 					<li><a href="signup.jsp?">회원가입</a></li>
 				</ul>
 			</div>
