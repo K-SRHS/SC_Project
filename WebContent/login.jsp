@@ -38,7 +38,6 @@
 			<tr height=50><td width=80><a href="signup.jsp?" class="float_l">회원가입</td></a>
 			<td><a href="findidpw.jsp?" class="float_r">아이디 · 비밀번호 찾기</td></tr></a>	
 	</table>
-
 </form>
 </body>
 </html>

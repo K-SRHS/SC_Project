@@ -48,10 +48,9 @@
 			</ul>
 		</h1>
 		</div>
-		<h2>회원가입</h2>
 	<form action="signup_ok.jsp" name="signup" method="post">
 	<table border=0 align=center>
-		
+			<tr height=50><td colspan="3" align="center"><h2>회원가입</h2></td></tr>
             <tr height=50><td width=80>아이디</td>
             <td><input type="text" name ="_id" id="id" size=20></td></tr>
             <tr height=50><td width=80>비밀번호</td>
