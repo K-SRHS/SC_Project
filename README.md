@@ -1,2 +1,3 @@
 # SC_Project
-웹툰뭐보니
+
+Project Name : 웹툰뭐보니
